@@ -1,0 +1,7 @@
+5	23
+
+Item1	11	9
+Item2	12	10
+Item3	24	9
+Item4	11	6
+Item5	12	5
