@@ -1,0 +1,6 @@
+How to run program is as follows:
+1.Run make command in terminal.
+2.Make command creates two executables LCS and rand.
+3.LCS is the program for question-1 and rand is for question-2.
+4.Run ./LCS "string1" "string2" for running program 1 in the terminal.
+5.Run ./floyd for running program 2 in the terminal
